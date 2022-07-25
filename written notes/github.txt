@@ -1,0 +1,7 @@
+Github is an ide (integrated development environment)
+We can mention Github as a cloud service. It has both free and paid versions.
+Everyone can have a Github account.
+Some recruiters check Github accounts when boarding a new employee. That is why, it is important to keep your Github profile up to date.
+You can share your works with everyone via public share on Github.
+You can also utilize others' open source works.
+Your activity on Github is tracked and can be displayed on your profile.
