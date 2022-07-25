@@ -1,0 +1,5 @@
+Git is a version control system, often abbreviated as VCS.
+It allows users (mostly developers) to track changes on any files.
+It is not centralized, that is why it is more reliable. If it used one server instead of distributed system, it would be impossible to recover any data in case of collapsing that server.
+By using git, one can save&track any changes, time travel among the codes written, compare codes and blame their colleagues, contribute to a collaborative development.
+You can always retrieve a previous version.
